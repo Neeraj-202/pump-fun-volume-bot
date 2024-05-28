@@ -10,5 +10,3 @@
 ✅Thanks to this volume bot, your acceptance rate in your listings increases and you can get into trends!😎
 
 ✅Most big coin developers use this!👌
-
-DM me from Telegram: https://t.me/swiftservicesowner if you are interested.🤝
