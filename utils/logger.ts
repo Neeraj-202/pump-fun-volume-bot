@@ -26,6 +26,7 @@ export const setUpLogger = () => {
           winston.format.printf((info) => `${info.timestamp} ${info.level}: ${info.message}`),
         ),
       }),
+      
     ],
   });
 };
